@@ -1,8 +1,11 @@
 #### **Usage**
 
 You need admin rights do execut the install and uninstall command
+
 To install this troll download the exe you can find it by the releases and doublle click it and it will work with the following reboot
+
 this troll starts with the computer and will call every five minutes Rick Astley - Never Gonna Give You Up systemwide on windows .
+
 To remove this troll typ
 
 ```
