@@ -1,6 +1,6 @@
 #### **Usage**
 
-You need admin rights do execut the install and uninstall command
+You need admin rights to execut the install and uninstall command
 
 To install this troll download the exe you can find it by the releases and doublle click it and it will work with the following reboot
 
