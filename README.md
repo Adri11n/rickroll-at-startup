@@ -2,7 +2,7 @@
 
 You need admin rights to execut the install and uninstall command
 
-To install this troll download the exe you can find it by the releases and doublle click it and to aktivatthe troll open cmd and type following command
+To install this troll download the exe you can find it by the releases and doublle click it and to aktivat the troll open cmd and type following command
 
 ```
 "%ProgramData%\Microsoft\Windows\Start Menu\Programs\StartUp\rick-roll.exe"  
